@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "sequioa-api",
+  "name": "zenia-email-api",
   "builds": [
     {
       "src": "index.js",
